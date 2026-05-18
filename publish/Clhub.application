@@ -14,7 +14,7 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Clhub_1_0_0_30\Clhub.dll.manifest" size="192054">
+    <dependentAssembly dependencyType="install" codebase="Application Files\Clhub_1_0_0_30\Clhub.exe.manifest" size="192054">
       <assemblyIdentity name="Clhub.exe" version="1.0.0.30" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
